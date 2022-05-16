@@ -18,4 +18,7 @@ COMMON_LUNCH_CHOICES := \
     evolution_surya-eng \
     ancient_surya-user \
     ancient_surya-userdebug \
-    ancient_surya-eng
+    ancient_surya-eng \
+    xtended_surya-user \
+    xtended_surya-userdebug \
+    xtended_surya-eng
